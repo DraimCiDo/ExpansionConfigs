@@ -341,6 +341,11 @@
                 "ClassName": "Apple",
                 "Quantity": -1,
                 "Attachments": []
+            },
+            {
+                "ClassName": "ItemWaterbottle",
+                "Quantity": -1,
+                "Attachments": []
             }
         ],
         "PantsGear": [],
