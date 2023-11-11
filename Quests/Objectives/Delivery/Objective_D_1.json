@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 5,
-    "ObjectiveText": "Deliver the note to Steve",
+    "ObjectiveText": "Доставить записку Стиву",
     "TimeLimit": -1,
     "Collections": [
         {

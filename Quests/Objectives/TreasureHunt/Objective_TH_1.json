@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 6,
-    "ObjectiveText": "Find the location of the treasure",
+    "ObjectiveText": "Найти местонахождение клада",
     "TimeLimit": -1,
     "ShowDistance": 1,
     "ContainerName": "ExpansionQuestSeaChest",

@@ -13,7 +13,7 @@
         0.0
     ],
     "NPCName": "Quest Board",
-    "DefaultNPCText": "There is nothing to do here for you...",
+    "DefaultNPCText": "Вам здесь делать нечего...",
     "Waypoints": [],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,

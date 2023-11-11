@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 9,
-    "ObjectiveText": "Bring the VIP to the marked location.",
+    "ObjectiveText": "Приведите VIP-персону в отмеченное место.",
     "TimeLimit": 180,
     "Position": [
         3193.590087890625,

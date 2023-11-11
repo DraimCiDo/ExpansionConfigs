@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 4,
-    "ObjectiveText": "Collect 5 apples",
+    "ObjectiveText": "Собрать 5 яблок",
     "TimeLimit": -1,
     "Collections": [
         {

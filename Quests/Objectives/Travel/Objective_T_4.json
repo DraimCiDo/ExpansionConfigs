@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 4,
     "ObjectiveType": 3,
-    "ObjectiveText": "Find the patrol",
+    "ObjectiveText": "Найти патруль",
     "TimeLimit": -1,
     "Position": [
         6990.52001953125,

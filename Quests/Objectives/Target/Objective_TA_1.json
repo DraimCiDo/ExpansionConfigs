@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 2,
-    "ObjectiveText": "Kill 10 Infected with a sledgehammer",
+    "ObjectiveText": "Убить 10 зараженных кувалдой",
     "TimeLimit": -1,
     "Position": [
         2596.699951171875,

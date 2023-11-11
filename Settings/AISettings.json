@@ -2,7 +2,7 @@
     "m_Version": 6,
     "AccuracyMin": 0.15000000596046449,
     "AccuracyMax": 0.75,
-    "ThreatDistanceLimit": 1000.0,
+    "ThreatDistanceLimit": 800.0,
     "DamageMultiplier": 1.0,
     "Admins": [],
     "MaximumDynamicPatrols": -1,

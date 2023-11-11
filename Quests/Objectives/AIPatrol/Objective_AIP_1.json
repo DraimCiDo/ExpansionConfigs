@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 1,
     "ObjectiveType": 7,
-    "ObjectiveText": "Kill all 4 units of the bandit patrol at the marked location",
+    "ObjectiveText": "Убейте все 4 единицы бандитского патруля в отмеченном месте",
     "TimeLimit": -1,
     "AIPatrol": {
         "NPCUnits": 4,

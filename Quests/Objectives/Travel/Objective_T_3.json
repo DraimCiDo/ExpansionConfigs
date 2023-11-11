@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 3,
     "ObjectiveType": 3,
-    "ObjectiveText": "Get to the Camp",
+    "ObjectiveText": "Добраться до лагеря",
     "TimeLimit": -1,
     "Position": [
         3706.27001953125,

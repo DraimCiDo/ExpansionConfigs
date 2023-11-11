@@ -13,7 +13,7 @@
         0.0
     ],
     "NPCName": "Steve",
-    "DefaultNPCText": "What do you want? I am busy...",
+    "DefaultNPCText": "Что тебе нужно? Я занят...",
     "Waypoints": [
         [
             3192.199951171875,

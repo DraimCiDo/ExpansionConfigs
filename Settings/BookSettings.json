@@ -8,30 +8,30 @@
     "EnableBookMenu": 1,
     "CreateBookmarks": 0,
     "ShowHaBStats": 1,
-    "ShowPlayerFaction": 0,
+    "ShowPlayerFaction": 1,
     "RuleCategories": [
         {
-            "CategoryName": "General",
+            "CategoryName": "Общие сведения",
             "Rules": [
                 {
                     "RuleParagraph": "1.1.",
-                    "RuleText": "Insults, discrimination, extremist and racist statements or texts are taboo."
+                    "RuleText": "Оскорбления, дискриминация, экстремистские и расистские высказывания и тексты запрещены."
                 },
                 {
                     "RuleParagraph": "1.2.",
-                    "RuleText": "We reserve the right to exclude people from the server who share extremist or racist ideas or who clearly disturb the server harmony."
+                    "RuleText": "Мы оставляем за собой право не допускать на сервер лиц, разделяющих экстремистские или расистские идеи или явно нарушающих гармонию на сервере."
                 },
                 {
                     "RuleParagraph": "1.3.",
-                    "RuleText": "Decisions of the team members, both the supporter and the admin are to be accepted without discussion."
+                    "RuleText": "Решения членов команды, как владельцев, так и администраторов, принимаются без обсуждения."
                 },
                 {
                     "RuleParagraph": "1.4.",
-                    "RuleText": "Provocations and toxic behavior will not be tolerated and punished! Be friendly to fellow players and your team, both in chat and in voice!"
+                    "RuleText": "Провокации и токсичное поведение будет наказываться! Будьте дружелюбны к игрокам и своей команде, как в чате, так и голосом!"
                 },
                 {
                     "RuleParagraph": "1.5.",
-                    "RuleText": "The use of external programs, scripts and cheats is not tolerated and is punished with a permanent exclusion."
+                    "RuleText": "Использование внешних программ, скриптов и читов не допускается и наказывается постоянной блокировкой."
                 }
             ]
         }
@@ -39,7 +39,7 @@
     "DisplayServerSettingsInServerInfoTab": 1,
     "SettingCategories": [
         {
-            "CategoryName": "Base-Building Settings",
+            "CategoryName": "Настройка базы",
             "Settings": [
                 {
                     "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "CategoryName": "Raid Settings",
+            "CategoryName": "Настройка рейдов",
             "Settings": [
                 {
                     "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "CategoryName": "Territory Settings",
+            "CategoryName": "Настройка территорий",
             "Settings": [
                 {
                     "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "CategoryName": "Map Settings",
+            "CategoryName": "Настройка карты",
             "Settings": [
                 {
                     "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
@@ -119,7 +119,7 @@
             ]
         },
         {
-            "CategoryName": "Party Settings",
+            "CategoryName": "Настройка Пати",
             "Settings": [
                 {
                     "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
@@ -136,93 +136,51 @@
     ],
     "Links": [
         {
-            "Name": "Homepage",
-            "URL": "https://www.google.com/",
+            "Name": "Веб-сайт",
+            "URL": "https://www.draimcido.net/",
             "IconName": "Homepage",
             "IconColor": -14473430
         },
         {
             "Name": "Feedback",
-            "URL": "https://www.google.com/",
+            "URL": "https://www.draimcido.net/feedback",
             "IconName": "Forums",
             "IconColor": -14473430
         },
         {
             "Name": "Discord",
-            "URL": "https://www.google.com/",
+            "URL": "https://www.discord.gg/TBeK3nE",
             "IconName": "Discord",
             "IconColor": -9270822
-        },
-        {
-            "Name": "Patreon",
-            "URL": "https://www.patreon.com/dayzexpansion",
-            "IconName": "Patreon",
-            "IconColor": -432044
-        },
-        {
-            "Name": "Steam",
-            "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=2116151222",
-            "IconName": "Steam",
-            "IconColor": -14006434
-        },
-        {
-            "Name": "Reddit",
-            "URL": "https://www.reddit.com/r/ExpansionProject/",
-            "IconName": "Reddit",
-            "IconColor": -12386303
-        },
-        {
-            "Name": "GitHub",
-            "URL": "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki",
-            "IconName": "GitHub",
-            "IconColor": -16777216
-        },
-        {
-            "Name": "YouTube",
-            "URL": "https://www.youtube.com/channel/UCZNgSvIEWfru963tQZOAVJg",
-            "IconName": "YouTube",
-            "IconColor": -65536
-        },
-        {
-            "Name": "Twitter",
-            "URL": "https://twitter.com/DayZExpansion",
-            "IconName": "Twitter",
-            "IconColor": -14835214
         }
     ],
     "Descriptions": [
         {
-            "CategoryName": "General Info",
+            "CategoryName": "Общая информация",
             "Descriptions": [
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "Мы оснащены мощным железом, чтобы вы играли без лагов."
                 },
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "Самое главное что тут вы найдется теплое и милое коммьюнити."
                 },
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "Благодарим за игру на нашем сервере."
                 }
             ]
         },
         {
-            "CategoryName": "Mod Info",
+            "CategoryName": "Информация о модах",
             "Descriptions": [
                 {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
-                },
-                {
-                    "DescriptionText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                    "DescriptionText": "Один и главный мод - Expansion."
                 }
             ]
         }
     ],
     "CraftingCategories": [
         {
-            "CategoryName": "Accessories",
+            "CategoryName": "Аксессуары",
             "Results": [
                 "armband_",
                 "armband_white",
@@ -230,7 +188,7 @@
             ]
         },
         {
-            "CategoryName": "Backpacks",
+            "CategoryName": "Рюкзаки",
             "Results": [
                 "courierbag",
                 "furcourierbag",
@@ -240,7 +198,7 @@
             ]
         },
         {
-            "CategoryName": "Base-Building",
+            "CategoryName": "Строительство",
             "Results": [
                 "expansionbarbedwirekit",
                 "fencekit",
@@ -256,7 +214,7 @@
             ]
         },
         {
-            "CategoryName": "Camouflage",
+            "CategoryName": "Камуфляж",
             "Results": [
                 "camonet",
                 "ghillieatt_tan",
@@ -277,7 +235,7 @@
             ]
         },
         {
-            "CategoryName": "Cooking",
+            "CategoryName": "Кулинария",
             "Results": [
                 "fireplace",
                 "firewood",
@@ -285,7 +243,7 @@
             ]
         },
         {
-            "CategoryName": "Fishing",
+            "CategoryName": "Рыбалка",
             "Results": [
                 "bait",
                 "bonebait",
@@ -294,7 +252,7 @@
             ]
         },
         {
-            "CategoryName": "Food",
+            "CategoryName": "Еда",
             "Results": [
                 "carpfilletmeat",
                 "mackerelfilletmeat",
@@ -304,7 +262,7 @@
             ]
         },
         {
-            "CategoryName": "Horticulture",
+            "CategoryName": "Садоводство",
             "Results": [
                 "pepperseeds",
                 "pumpkinseeds",
@@ -313,14 +271,14 @@
             ]
         },
         {
-            "CategoryName": "Lights",
+            "CategoryName": "Светильники",
             "Results": [
                 "longtorch",
                 "torch"
             ]
         },
         {
-            "CategoryName": "Medical Supplies",
+            "CategoryName": "Медицинские принадлежности",
             "Results": [
                 "bloodbagiv",
                 "salinebagiv",
@@ -328,20 +286,20 @@
             ]
         },
         {
-            "CategoryName": "Melee Weapons",
+            "CategoryName": "Оружие ближнего боя",
             "Results": [
                 "nailedbaseballbat",
                 "stoneknife"
             ]
         },
         {
-            "CategoryName": "Storage",
+            "CategoryName": "Хранилище",
             "Results": [
                 "woodencrate"
             ]
         },
         {
-            "CategoryName": "Supplies",
+            "CategoryName": "Припасы",
             "Results": [
                 "boarpelt",
                 "burlapsack",
@@ -362,13 +320,13 @@
             ]
         },
         {
-            "CategoryName": "Weapon Modifications",
+            "CategoryName": "Модификации оружия",
             "Results": [
                 "sawedoffizh18shotgun"
             ]
         },
         {
-            "CategoryName": "Weapon Attachments",
+            "CategoryName": "Оружейные приспособления",
             "Results": [
                 "improvisedsuppressor"
             ]

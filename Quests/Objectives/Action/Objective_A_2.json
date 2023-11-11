@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 2,
     "ObjectiveType": 10,
-    "ObjectiveText": "Plant pumkin seeds:",
+    "ObjectiveText": "Посадить семена тыквы:",
     "TimeLimit": -1,
     "ActionNames": [
         "ActionPlantSeed"

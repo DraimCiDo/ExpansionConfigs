@@ -2,13 +2,13 @@
     "ConfigVersion": 20,
     "ID": 1,
     "Type": 1,
-    "Title": "A dirty rat's job",
+    "Title": "Работа грязной крысы",
     "Descriptions": [
-        "Shit man, who are you? Is your name %1? I thought we already dealt with you. ** (He stares at you for a moment and then begins to smile) ** Ah nevermind... Today is your lucky day, my friend! If you do me a little favor, I'll make sure you get off this island as soon as possible. I swear by my mother's beard! All you have to do is take this NOTE here to my useless colleague Steve and have him read it, then he will give something to you. Bring it to me! You can find Steve in the little village down the street in the north west. Make sure he reads the note and don't come back empty handed!",
-        "I thought I made clear what you need to do?! Go to Steve now and don't come back empty handed!",
-        "Look at that... Another little bambi in the forests of death..."
+        "Черт, кто ты такой? Тебя зовут %1? Я думал, мы уже разобрались с тобой. ** (Он смотрит на вас мгновение, а затем начинает улыбаться) ** Ах, неважно... Сегодня твой счастливый день, мой друг! Если ты окажешь мне небольшую услугу, я позабочусь о том, чтобы ты как можно скорее покинул этот остров. Клянусь бородой моей матери! Все, что вам нужно сделать, это отнести это ЗАЯВЛЕНИЕ моему бесполезному коллеге Стиву и попросить его прочитать, после чего он даст вам кое-что. Принесите это мне! Вы можете найти Стива в маленькой деревушке на северо-западе. Убедитесь, что он прочтет записку, и не возвращайтесь с пустыми руками!",
+        "Мне казалось, я ясно объяснил, что вам нужно делать? Идите к Стиву сейчас же и не возвращайтесь с пустыми руками!",
+        "Посмотрите на это... Еще один маленький бэмби в лесах смерти..."
     ],
-    "ObjectiveText": "Deliver the note and talk to Steve.",
+    "ObjectiveText": "Передайте записку и поговорите со Стивом.",
     "FollowUpQuest": 2,
     "Repeatable": 0,
     "IsDailyQuest": 0,

@@ -5,20 +5,56 @@
     "UseMissionTime": 0,
     "Notifications": [
         {
-            "Hour": 22,
+            "Hour": 10,
             "Minute": 0,
             "Second": 0,
-            "Title": "Notification Schedule Test 1",
-            "Text": "Lorem ipsum dolor sit amet",
+            "Title": "Обьявление",
+            "Text": "Благодарим вас за игру на нашем сервере!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 0,
+            "Title": "Обьявление",
+            "Text": "Благодарим вас за игру на нашем сервере!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 20,
+            "Minute": 0,
+            "Second": 0,
+            "Title": "Обьявление",
+            "Text": "Благодарим вас за игру на нашем сервере!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 12,
+            "Minute": 0,
+            "Second": 0,
+            "Title": "Обьявление",
+            "Text": "Присоединяйтесь к нашему дискорду!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 16,
+            "Minute": 0,
+            "Second": 0,
+            "Title": "Обьявление",
+            "Text": "Присоединяйтесь к нашему дискорду!",
             "Icon": "Info",
             "Color": ""
         },
         {
             "Hour": 22,
-            "Minute": 1,
+            "Minute": 0,
             "Second": 0,
-            "Title": "Notification Schedule Test 2",
-            "Text": "Lorem ipsum dolor sit amet",
+            "Title": "Обьявление",
+            "Text": "Присоединяйтесь к нашему дискорду!",
             "Icon": "Info",
             "Color": ""
         }

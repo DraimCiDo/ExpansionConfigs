@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 2,
     "ObjectiveType": 5,
-    "ObjectiveText": "Deliver the package to Peter",
+    "ObjectiveText": "Доставить посылку в Питер",
     "TimeLimit": -1,
     "Collections": [
         {
