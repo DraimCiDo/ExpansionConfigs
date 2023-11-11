@@ -20,7 +20,7 @@
         {
             "m_UID": "ServerMarker_Trader_Krasno",
             "m_Visibility": 6,
-            "m_Is3D": 1,
+            "m_Is3D": 0,
             "m_Text": "Traders - Krasnostav Airstrip",
             "m_IconName": "Trader",
             "m_Color": -13710223,
@@ -35,7 +35,7 @@
         {
             "m_UID": "ServerMarker_Trader_Kamenka",
             "m_Visibility": 6,
-            "m_Is3D": 1,
+            "m_Is3D": 0,
             "m_Text": "Traders - Kamenka",
             "m_IconName": "Trader",
             "m_Color": -13710223,
@@ -50,7 +50,7 @@
         {
             "m_UID": "ServerMarker_Boats_Kamenka",
             "m_Visibility": 6,
-            "m_Is3D": 1,
+            "m_Is3D": 0,
             "m_Text": "Boats - Kamenka",
             "m_IconName": "Boat",
             "m_Color": -13710223,
@@ -65,7 +65,7 @@
         {
             "m_UID": "ServerMarker_Aircrafts_Balota",
             "m_Visibility": 6,
-            "m_Is3D": 1,
+            "m_Is3D": 0,
             "m_Text": "Aircrafts - Balota",
             "m_IconName": "Helicopter",
             "m_Color": -13710223,
@@ -80,7 +80,7 @@
         {
             "m_UID": "ServerMarker_Boats_Svetloyarsk",
             "m_Visibility": 6,
-            "m_Is3D": 1,
+            "m_Is3D": 0,
             "m_Text": "Boats & Fishing - Svetloyarsk",
             "m_IconName": "Boat",
             "m_Color": -13710223,
@@ -95,7 +95,7 @@
         {
             "m_UID": "ServerMarker_Trader_Green_Montain",
             "m_Visibility": 6,
-            "m_Is3D": 1,
+            "m_Is3D": 0,
             "m_Text": "Trader - Green Montain",
             "m_IconName": "Trader",
             "m_Color": -13710223,
