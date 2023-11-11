@@ -9,7 +9,7 @@
                 403.0,
                 6003.60009765625
             ],
-            "Radius": 500.0
+            "Radius": 450.0
         },
         {
             "Center": [
@@ -17,7 +17,7 @@
                 6.900000095367432,
                 2423.27001953125
             ],
-            "Radius": 700.0
+            "Radius": 450.0
         }
     ],
     "PolygonZones": [
@@ -56,7 +56,7 @@
     "DisableVehicleDamageInSafeZone": 1,
     "EnableForceSZCleanup": 1,
     "ItemLifetimeInSafeZone": 900.0,
-    "EnableForceSZCleanupVehicles": 0,
-    "VehicleLifetimeInSafeZone": 3600.0,
+    "EnableForceSZCleanupVehicles": 1,
+    "VehicleLifetimeInSafeZone": 7200.0,
     "ForceSZCleanup_ExcludedItems": []
 }
