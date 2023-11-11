@@ -2,12 +2,12 @@
 
 Конфигурация мода Expansion для сервера DraimCiDo.
 
-### Полезные ссылки
+### :earth_asia: Полезные ссылки
 - [WIKI Expansion](https://github.com/salutesh/DayZ-Expansion-Scripts/wiki)
 - [DayZEditor-Expansion](https://github.com/Shawminator/DayZeEditor/releases)
 - [Список всех classname](https://github.com/CypherMediaGIT/DayZClassNames2020/blob/master/classname2020)
 - [Оффлайн-сервер DayZ](https://github.com/Arkensor/DayZCommunityOfflineMode)
-### Изменения:
+### :rocket: Изменения:
 - [x] Машины получают урон только если их скорость достигла 45 км/ч
 - [x] Изменение ссылок Social Media на DRAIMCIDO.
 - [x] Переведены все системные отпуты квестов.
