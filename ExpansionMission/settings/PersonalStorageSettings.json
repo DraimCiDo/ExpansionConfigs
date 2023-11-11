@@ -9,7 +9,7 @@
     ],
     "MenuCategories": [
         {
-            "DisplayName": "Ammo",
+            "DisplayName": "Патроны",
             "IconPath": "set:dayz_inventory image:bullets",
             "Included": [
                 "Ammunition_Base",
@@ -18,7 +18,7 @@
             "Excluded": [],
             "SubCategories": [
                 {
-                    "DisplayName": "Ammo-Boxes",
+                    "DisplayName": "Коробки с патронами",
                     "IconPath": "set:dayz_inventory image:bullets",
                     "Included": [
                         "Box_Base"
@@ -26,7 +26,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Ammo-Bullets",
+                    "DisplayName": "Пули",
                     "IconPath": "set:dayz_inventory image:bullets",
                     "Included": [
                         "Ammunition_Base"
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "DisplayName": "Containers",
+            "DisplayName": "Контейнеры",
             "IconPath": "set:dayz_inventory image:barrel",
             "Included": [
                 "Container_Base"
@@ -45,7 +45,7 @@
             "SubCategories": []
         },
         {
-            "DisplayName": "Consumables",
+            "DisplayName": "Расходные материалы",
             "IconPath": "set:dayz_inventory image:food",
             "Included": [
                 "Edible_Base"
@@ -53,7 +53,7 @@
             "Excluded": [],
             "SubCategories": [
                 {
-                    "DisplayName": "Drinks",
+                    "DisplayName": "Напитки",
                     "IconPath": "set:dayz_inventory image:canteen",
                     "Included": [
                         "SodaCan_ColorBase",
@@ -65,7 +65,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Fish",
+                    "DisplayName": "Рыба",
                     "IconPath": "set:dayz_inventory image:food",
                     "Included": [
                         "CarpFilletMeat",
@@ -77,7 +77,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Food",
+                    "DisplayName": "Еда",
                     "IconPath": "set:dayz_inventory image:food",
                     "Included": [
                         "Zagorky",
@@ -109,7 +109,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Meat",
+                    "DisplayName": "Мясо",
                     "IconPath": "set:dayz_inventory image:food",
                     "Included": [
                         "BearSteakMeat",
@@ -126,7 +126,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Meds",
+                    "DisplayName": "Лекарства",
                     "IconPath": "set:dayz_inventory image:medicalbandage",
                     "Included": [
                         "CharcoalTablets",
@@ -141,7 +141,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Vegetables",
+                    "DisplayName": "Овощи",
                     "IconPath": "set:dayz_inventory image:food",
                     "Included": [
                         "Apple",
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "DisplayName": "Equipment",
+            "DisplayName": "Экипировка",
             "IconPath": "set:dayz_inventory image:body",
             "Included": [
                 "ClothingBase",
@@ -172,7 +172,7 @@
             "Excluded": [],
             "SubCategories": [
                 {
-                    "DisplayName": "Armbands",
+                    "DisplayName": "Нарукавники",
                     "IconPath": "set:dayz_inventory image:armband",
                     "Included": [
                         "Armband_ColorBase"
@@ -180,33 +180,23 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Backpacks",
+                    "DisplayName": "Рюкзаки",
                     "IconPath": "set:dayz_inventory image:back",
                     "Included": [
-                        "ChildBag_ColorBase",
-                        "DryBag_ColorBase",
-                        "TaloonBag_ColorBase",
-                        "SmershBag",
-                        "AssaultBag_ColorBase",
-                        "HuntingBag",
-                        "TortillaBag",
-                        "CoyoteBag_ColorBase",
-                        "MountainBag_ColorBase",
-                        "AliceBag_ColorBase"
+                        "Backpack_Base"
                     ],
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Belts",
+                    "DisplayName": "Ремни",
                     "IconPath": "set:dayz_inventory image:hips",
                     "Included": [
-                        "CivilianBelt",
-                        "MilitaryBelt"
+                        "Belt_Base"
                     ],
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Blouses & Suits",
+                    "DisplayName": "Блузки и костюмы",
                     "IconPath": "set:dayz_inventory image:body",
                     "Included": [
                         "Blouse_ColorBase",
@@ -216,32 +206,17 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Boots & Shoes",
+                    "DisplayName": "Сапоги и ботинки",
                     "IconPath": "set:dayz_inventory image:feet",
                     "Included": [
-                        "AthleticShoes_ColorBase",
-                        "JoggingShoes_ColorBase",
-                        "Sneakers_ColorBase",
-                        "Ballerinas_ColorBase",
-                        "DressShoes_ColorBase",
-                        "HikingBootsLow_ColorBase",
-                        "WorkingBoots_ColorBase",
-                        "HikingBoots_ColorBase",
-                        "CombatBoots_ColorBase",
-                        "JungleBoots_ColorBase",
-                        "Wellies_ColorBase",
-                        "TTSKOBoots",
-                        "MilitaryBoots_ColorBase",
-                        "NBCBootsBase"
+                        "Shoes_Base"
                     ],
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Caps",
+                    "DisplayName": "Шапки",
                     "IconPath": "set:dayz_inventory image:headgear",
                     "Included": [
-                        "BaseballCap_CMMG_Pink",
-                        "BaseballCap_CMMG_Black",
                         "BaseballCap_ColorBase",
                         "PrisonerCap",
                         "PilotkaCap",
@@ -253,7 +228,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Coats & Jackets",
+                    "DisplayName": "Пальто и куртки",
                     "IconPath": "set:dayz_inventory image:body",
                     "Included": [
                         "LabCoat",
@@ -282,22 +257,15 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Eyewear",
+                    "DisplayName": "Очки",
                     "IconPath": "set:dayz_inventory image:eyewear",
                     "Included": [
-                        "SportGlasses_ColorBase",
-                        "ThinFramesGlasses",
-                        "ThickFramesGlasses",
-                        "DesignerGlasses",
-                        "AviatorGlasses",
-                        "TacticalGoggles",
-                        "NVGHeadstrap",
-                        "EyePatch_Improvised"
+                        "Glasses_Base"
                     ],
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Ghillies",
+                    "DisplayName": "Гили",
                     "IconPath": "set:dayz_inventory image:missing",
                     "Included": [
                         "GhillieHood_ColorBase",
@@ -308,19 +276,15 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Gloves",
+                    "DisplayName": "Перчатки",
                     "IconPath": "set:dayz_inventory image:gloves",
                     "Included": [
-                        "SurgicalGloves_ColorBase",
-                        "WorkingGloves_ColorBase",
-                        "TacticalGloves_ColorBase",
-                        "OMNOGloves_ColorBase",
-                        "NBCGloves_ColorBase"
+                        "Gloves_Base"
                     ],
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Hats & Hoods",
+                    "DisplayName": "Шапки и капюшоны",
                     "IconPath": "set:dayz_inventory image:headgear",
                     "Included": [
                         "MedicalScrubsHat_ColorBase",
@@ -335,7 +299,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Helmets",
+                    "DisplayName": "Шлемы",
                     "IconPath": "set:dayz_inventory image:headgear",
                     "Included": [
                         "HelmetBase"
@@ -343,51 +307,23 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Masks",
+                    "DisplayName": "Маски",
                     "IconPath": "set:dayz_inventory image:mask",
                     "Included": [
-                        "SurgicalMask",
-                        "NioshFaceMask",
-                        "HockeyMask",
-                        "BalaclavaMask_ColorBase",
-                        "Balaclava3Holes_ColorBase",
-                        "WeldingMask",
-                        "GasMask",
-                        "GP5GasMask",
-                        "AirborneMask"
+                        "Mask_Base"
                     ],
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Pants",
+                    "DisplayName": "Брюки",
                     "IconPath": "set:dayz_inventory image:legs",
                     "Included": [
-                        "MedicalScrubsPants_ColorBase",
-                        "TrackSuitPants_ColorBase",
-                        "PrisonUniformPants",
-                        "Breeches_ColorBase",
-                        "SlacksPants_ColorBase",
-                        "CanvasPantsMidi_ColorBase",
-                        "CanvasPants_ColorBase",
-                        "JumpsuitPants_ColorBase",
-                        "PolicePants",
-                        "ParamedicPants_ColorBase",
-                        "FirefightersPants_ColorBase",
-                        "CargoPants_ColorBase",
-                        "ShortJeans_ColorBase",
-                        "Jeans_ColorBase",
-                        "TTSKOPants",
-                        "BDUPants",
-                        "USMCPants_ColorBase",
-                        "PolicePantsOrel",
-                        "HunterPants_ColorBase",
-                        "GorkaPants_ColorBase",
-                        "NBCPantsBase"
+                        "Pants_Base"
                     ],
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Shirts",
+                    "DisplayName": "Рубашки",
                     "IconPath": "set:dayz_inventory image:body",
                     "Included": [
                         "TShirt_ColorBase",
@@ -396,7 +332,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Skirts & Dresses",
+                    "DisplayName": "Юбки и платья",
                     "IconPath": "set:dayz_inventory image:body",
                     "Included": [
                         "Skirt_ColorBase",
@@ -406,7 +342,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Sweaters & Hoodies",
+                    "DisplayName": "Свитера и толстовки",
                     "IconPath": "set:dayz_inventory image:body",
                     "Included": [
                         "Sweater_ColorBase",
@@ -415,29 +351,21 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Vests",
+                    "DisplayName": "Жилеты",
                     "IconPath": "set:dayz_inventory image:vest",
                     "Included": [
-                        "ReflexVest",
-                        "PoliceVest",
-                        "PressVest_ColorBase",
-                        "UKAssVest_ColorBase",
-                        "SmershVest",
-                        "HighCapacityVest_ColorBase",
-                        "PlateCarrierVest",
-                        "HuntingVest"
+                        "Vest_Base"
                     ],
                     "Excluded": []
                 }
             ]
         },
         {
-            "DisplayName": "Explosives",
+            "DisplayName": "Взрывчатые вещества",
             "IconPath": "set:dayz_inventory image:explosive",
             "Included": [
                 "ExplosivesBase",
                 "RemoteDetonator",
-                "RemoteDetonatorTrigger",
                 "RemoteDetonatorTrigger",
                 "ExpansionSatchel",
                 "M18SmokeGrenade_ColorBase"
@@ -446,7 +374,7 @@
             "SubCategories": []
         },
         {
-            "DisplayName": "Vehicles",
+            "DisplayName": "Транспортные средства",
             "IconPath": "set:dayz_inventory image:cat_vehicle_body",
             "Included": [
                 "CarScript"
@@ -454,7 +382,7 @@
             "Excluded": [],
             "SubCategories": [
                 {
-                    "DisplayName": "Cars",
+                    "DisplayName": "Автомобили",
                     "IconPath": "set:dayz_inventory image:cat_vehicle_body",
                     "Included": [
                         "OffroadHatchback",
@@ -472,7 +400,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Helicopters",
+                    "DisplayName": "Вертолеты",
                     "IconPath": "set:dayz_inventory image:cat_vehicle_body",
                     "Included": [
                         "ExpansionHelicopterScript"
@@ -480,7 +408,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Boats",
+                    "DisplayName": "Лодки",
                     "IconPath": "set:dayz_inventory image:cat_vehicle_body",
                     "Included": [
                         "ExpansionBoatScript"
@@ -490,7 +418,7 @@
             ]
         },
         {
-            "DisplayName": "Weapons",
+            "DisplayName": "Оружие",
             "IconPath": "set:dayz_inventory image:pistol",
             "Included": [
                 "Weapon_Base",
@@ -504,7 +432,7 @@
             ],
             "SubCategories": [
                 {
-                    "DisplayName": "Attachments",
+                    "DisplayName": "Насадки",
                     "IconPath": "set:dayz_inventory image:weaponmuzzle",
                     "Included": [
                         "ButtstockBase",
@@ -516,23 +444,15 @@
                     ]
                 },
                 {
-                    "DisplayName": "Assault Rifles",
+                    "DisplayName": "Штурмовые винтовки",
                     "IconPath": "set:dayz_inventory image:pistol",
                     "Included": [
-                        "FAL_Base",
-                        "AKM_Base",
-                        "AK74_Base",
-                        "M4A1_Base",
-                        "M16A2_Base",
-                        "Famas_Base",
-                        "Aug_Base",
-                        "Expansion_M16_Base",
-                        "Expansion_G36_Base"
+                        "RifleBoltFree_Base"
                     ],
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Pistols",
+                    "DisplayName": "Пистолеты",
                     "IconPath": "set:dayz_inventory image:pistol",
                     "Included": [
                         "Pistol_Base"
@@ -540,7 +460,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Rifles",
+                    "DisplayName": "Винтовки",
                     "IconPath": "set:dayz_inventory image:pistol",
                     "Included": [
                         "Izh18_Base",
@@ -558,7 +478,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Shotguns",
+                    "DisplayName": "Дробовики",
                     "IconPath": "set:dayz_inventory image:pistol",
                     "Included": [
                         "Izh18Shotgun_Base",
@@ -571,7 +491,7 @@
                     "Excluded": []
                 },
                 {
-                    "DisplayName": "Sniper-Rifles",
+                    "DisplayName": "Снайперские винтовки",
                     "IconPath": "set:dayz_inventory image:pistol",
                     "Included": [
                         "VSS_Base",
