@@ -2,13 +2,10 @@
     "ConfigVersion": 20,
     "ID": 15,
     "Type": 1,
-    "Title": "Plant a Pumpkin",
+    "Title": "Посадите тыкву",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
     ],
-    "ObjectiveText": "Plant a pumpkin seed.",
+    "ObjectiveText": "Посадите семечко тыквы.",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,

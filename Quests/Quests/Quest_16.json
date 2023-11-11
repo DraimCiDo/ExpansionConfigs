@@ -2,13 +2,10 @@
     "ConfigVersion": 20,
     "ID": 16,
     "Type": 1,
-    "Title": "For the Lich... I mean Yellow King!",
+    "Title": "Для Лича... Я имею в виду Желтого Короля!",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
     ],
-    "ObjectiveText": "Find the yellow king's helmet.",
+    "ObjectiveText": "Найдите шлем желтого короля.",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,

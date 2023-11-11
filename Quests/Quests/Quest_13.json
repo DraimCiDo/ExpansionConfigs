@@ -2,13 +2,12 @@
     "ConfigVersion": 20,
     "ID": 13,
     "Type": 1,
-    "Title": "Catch a Fish",
+    "Title": "Поймать рыбу",
     "Descriptions": [
-        "PLACEHOLDER",
-        "Craft an improvised fishing rod and catch a mackerel.",
-        "Turn in quest to get reward."
+        "Сделайте самодельную удочку и поймайте скумбрию.",
+        "Сдайте квест, чтобы получить вознаграждение."
     ],
-    "ObjectiveText": "Craft an improvised fishing rod and catch a mackerel!",
+    "ObjectiveText": "Сделайте самодельную удочку и поймайте скумбрию!",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,

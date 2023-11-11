@@ -2,13 +2,11 @@
     "ConfigVersion": 20,
     "ID": 7,
     "Type": 1,
-    "Title": "Kill - Civilian Infected",
+    "Title": "Зачистка - Зараженные",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Сможете осилить ходячих?"
     ],
-    "ObjectiveText": "Kill 100 civilian Infected.",
+    "ObjectiveText": "Убить 100 гражданских зараженных.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,

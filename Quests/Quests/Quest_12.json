@@ -2,13 +2,12 @@
     "ConfigVersion": 20,
     "ID": 12,
     "Type": 1,
-    "Title": "Apple Juice",
+    "Title": "Яблочный сок",
     "Descriptions": [
-        "PLACEHOLDER",
-        "Obtain 5 apples.",
-        "Turn in quest to get reward."
+        "Получите 5 яблок.",
+        "Сдайте квест, чтобы получить вознаграждение."
     ],
-    "ObjectiveText": "Get 5 apples",
+    "ObjectiveText": "Получить 5 яблок",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,

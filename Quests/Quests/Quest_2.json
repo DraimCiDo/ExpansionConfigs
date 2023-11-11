@@ -4,11 +4,11 @@
     "Type": 1,
     "Title": "Одолжение для Стива...",
     "Descriptions": [
-        "So, Peter sends you, hmm? Well I have what he wants, although he still owes me something... But I'm also not a bad guy. Let's say if you do me a favor, too, I'll give you what Peter wants and even more. I gotta keep watch and make sure no shit happens around here. I want you to take this sledgehammer and clean up the village with it. There are a few Infected that have to be eliminated before they start moving into the camp.",
-        "You are not done yet? How hard can it be to smash some heads with that hammer... Come back when the job is done!",
-        "Oh there you are! I thought the Infected got your ass and killed you... Well, here is your reward."
+        "Значит, тебя прислал Питер? Ну, у меня есть то, что он хочет, хотя он все еще должен мне кое-что... Но я тоже неплохой парень. Скажем так, если ты тоже окажешь мне услугу, я дам тебе то, что хочет Питер, и даже больше. Я должен следить за тем, чтобы здесь не происходило никакого дерьма. Я хочу, чтобы ты взял эту кувалду и зачистил ею деревню. Там есть несколько зараженных, которых нужно уничтожить, прежде чем они начнут перебираться в лагерь.",
+        "Вы еще не закончили? Неужели так трудно разбить несколько голов этим молотком... Возвращайтесь, когда работа будет закончена!",
+        "А вот и ты! А я-то думал, что Зараженные взяли тебя за задницу и убили... Что ж, вот твоя награда."
     ],
-    "ObjectiveText": "Kill 10 civilian Infected with Steve's sledgehammer.",
+    "ObjectiveText": "Убейте 10 гражданских зараженных кувалдой Стива.",
     "FollowUpQuest": 3,
     "Repeatable": 0,
     "IsDailyQuest": 0,

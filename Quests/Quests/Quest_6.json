@@ -2,13 +2,11 @@
     "ConfigVersion": 20,
     "ID": 6,
     "Type": 1,
-    "Title": "Clear Village - Bandits",
+    "Title": "Зачистка - Бандиты",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Сможете осилить вооруженных противников?"
     ],
-    "ObjectiveText": "Kill all bandits at the marked location.",
+    "ObjectiveText": "Убейте всех бандитов в отмеченном месте.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,

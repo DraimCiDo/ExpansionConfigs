@@ -2,13 +2,10 @@
     "ConfigVersion": 20,
     "ID": 14,
     "Type": 1,
-    "Title": "Welcome to Hell",
+    "Title": "Добро пожаловать в ад",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
     ],
-    "ObjectiveText": "Visit the camp at the marked location.",
+    "ObjectiveText": "Посетите лагерь в указанном месте.",
     "FollowUpQuest": -1,
     "Repeatable": 0,
     "IsDailyQuest": 0,

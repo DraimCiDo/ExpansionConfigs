@@ -2,13 +2,11 @@
     "ConfigVersion": 20,
     "ID": 5,
     "Type": 1,
-    "Title": "Clear Patrol - Bandits",
+    "Title": "Зачистка - Бандиты",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Сможете осилить вооруженных противников?"
     ],
-    "ObjectiveText": "Kill all members of the bandit patrol at the marked location.",
+    "ObjectiveText": "Убейте всех членов бандитского патруля в отмеченном месте.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 0,

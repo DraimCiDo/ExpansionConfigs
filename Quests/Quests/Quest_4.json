@@ -2,13 +2,11 @@
     "ConfigVersion": 20,
     "ID": 4,
     "Type": 1,
-    "Title": "Treasure Hunt - Currency",
+    "Title": "Поиск сокровищ - Валюта",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Сможете ли вы найти сокровища?"
     ],
-    "ObjectiveText": "Find the treasure.",
+    "ObjectiveText": "Найдите сокровища.",
     "FollowUpQuest": -1,
     "Repeatable": 1,
     "IsDailyQuest": 1,
