@@ -1,0 +1,8 @@
+04:45:38.917 [Party] Player "[DCD] DraimGooSe" (id=1sjcTkeHCmEBmk4kU0vptFolBgC02yVfPBmwF30ypcw=) joinded the party "DraimCiDo" (id=0 ownerUID=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc= ownerName=[DCD] Revolution)
+04:45:38.927 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1sjcTkeHCmEBmk4kU0vptFolBgC02yVfPBmwF30ypcw=
+04:45:38.927 [Expansion Quests] - LoadGroupQuestData - Loaded existing group quest data for group with ID: 0
+04:45:38.929 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1sjcTkeHCmEBmk4kU0vptFolBgC02yVfPBmwF30ypcw=
+04:45:38.929 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1sjcTkeHCmEBmk4kU0vptFolBgC02yVfPBmwF30ypcw=
+04:45:38.929 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: 1sjcTkeHCmEBmk4kU0vptFolBgC02yVfPBmwF30ypcw=
+04:45:38.929 [Expansion Quests] - Create new quest instance for quest: 7 - Player UID: 1sjcTkeHCmEBmk4kU0vptFolBgC02yVfPBmwF30ypcw=
+04:45:39.882 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0

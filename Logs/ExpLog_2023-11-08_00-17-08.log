@@ -1,0 +1,30 @@
+00:20:00.203 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+00:20:00.203 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+00:20:19.682 [SpawnSelection] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) spawned at <13207.200195, 2.300000, 10193.700195>
+00:20:22.963 [AI Patrol] Spawning 3 West bots at <13690.275391, -12.519492, 10973.878906>
+00:22:40.465 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Land Rover Defender (id=8C479CC84041FE3BF639B6891C4F6C80 pos=<13154.686523, 5.976285, 10197.553711>) as driver
+00:22:43.203 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Land Rover Defender (id=8C479CC84041FE3BF639B6891C4F6C80 pos=<13154.686523, 5.976287, 10197.553711>)
+00:23:03.155 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Land Rover Defender (id=8C479CC84041FE3BF639B6891C4F6C80 pos=<13092.017578, 5.968500, 10233.165039>)
+00:23:13.416 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Land Rover Defender (id=8C479CC84041FE3BF639B6891C4F6C80 pos=<13092.017578, 5.968503, 10233.165039>) as driver
+00:23:15.997 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Land Rover Defender (id=8C479CC84041FE3BF639B6891C4F6C80 pos=<13092.017578, 5.968501, 10233.165039>)
+00:23:33.448 [AI Patrol] Spawning 3 West bots at <13682.789063, 0.797505, 11108.593750>
+00:23:42.968 [AI Patrol] Spawning 3 West bots at <13809.436523, 12.257611, 11236.652344>
+00:25:53.274 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Land Rover Defender (id=8C479CC84041FE3BF639B6891C4F6C80 pos=<12984.476563, 5.936837, 9924.905273>)
+00:26:05.291 [VehicleDeleted] Expansion_Landrover (id=8C479CC84041FE3BF639B6891C4F6C80 pos=<12984.457031, 5.877509, 9924.903320>)
+00:26:51.781 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Mh-6 Little Bird (id=A46EA2AAC643ED8D294463A678B2C25D pos=<12982.970703, 6.040855, 9919.325195>) as pilot
+00:27:04.287 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Mh-6 Little Bird (id=A46EA2AAC643ED8D294463A678B2C25D pos=<12982.970703, 6.040863, 9919.325195>)
+00:29:54.612 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] stopped vehicle Mh-6 Little Bird (id=A46EA2AAC643ED8D294463A678B2C25D pos=<12881.964844, 72.352005, 11883.393555>)
+00:29:59.743 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Mh-6 Little Bird (id=A46EA2AAC643ED8D294463A678B2C25D pos=<12881.941406, 71.768982, 11883.423828>)
+00:30:21.902 [VehicleDeleted] ExpansionMh6 (id=A46EA2AAC643ED8D294463A678B2C25D pos=<12881.942383, 71.769257, 11883.423828>)
+00:31:30.572 [VehicleDeleted] ExpansionUh1h (id=09B81DD2FC4E5148ED5272A0D9EB727F pos=<12886.310547, 71.040390, 11878.095703>)
+00:31:44.506 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Merlin (id=5A6CE507E641E333ED8DFAAA0D4D8F7B pos=<12895.719727, 68.672028, 11856.487305>) as passenger
+00:31:47.905 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Merlin (id=5A6CE507E641E333ED8DFAAA0D4D8F7B pos=<12895.719727, 68.672020, 11856.487305>)
+00:31:53.386 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Merlin (id=5A6CE507E641E333ED8DFAAA0D4D8F7B pos=<12895.719727, 68.672005, 11856.487305>) as pilot
+00:31:55.604 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Merlin (id=5A6CE507E641E333ED8DFAAA0D4D8F7B pos=<12895.719727, 68.672005, 11856.487305>)
+00:35:04.770 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Merlin (id=5A6CE507E641E333ED8DFAAA0D4D8F7B pos=<10892.149414, 50.053345, 14371.042969>)
+00:35:17.778 [VehicleDeleted] ExpansionMerlin (id=5A6CE507E641E333ED8DFAAA0D4D8F7B pos=<10892.169922, 50.044556, 14371.036133>)
+00:35:43.669 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Cator 2009 (id=C2BD64468C4E8816E4256C88A182045E pos=<10900.125977, 50.262466, 14374.899414>) as driver
+00:35:46.265 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Cator 2009 (id=C2BD64468C4E8816E4256C88A182045E pos=<10900.125977, 50.262466, 14374.899414>)
+00:36:16.584 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Cator 2009 (id=C2BD64468C4E8816E4256C88A182045E pos=<11037.941406, 55.855877, 14435.383789>)
+00:36:23.183 [VehicleDeleted] ExpansionTractor (id=C2BD64468C4E8816E4256C88A182045E pos=<11037.979492, 55.773491, 14435.339844>)
+00:38:40.828 [Killfeed] [DCD] Revolution умер от голода.

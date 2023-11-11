@@ -1,0 +1,25 @@
+23:15:01.539 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+23:15:01.539 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+23:15:01.539 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+23:15:01.539 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+23:15:01.546 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+23:15:10.953 [SpawnSelection] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) spawned at <13207.200195, 2.300000, 10193.700195>
+23:18:40.601 [AI Patrol] Spawning 1 West bots at <13687.445313, 1.441388, 11150.779297>
+23:27:46.953 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: EF6CtSr6pdKD84O8uUbeNzChIVU8B3QnDhdgpiqrL0k=
+23:27:46.953 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+23:27:58.882 [SpawnSelection] Player "Rem | Hedgehog" (id=EF6CtSr6pdKD84O8uUbeNzChIVU8B3QnDhdgpiqrL0k=) spawned at <13207.200195, 2.300000, 10193.700195>
+23:28:17.960 [Party] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) joinded the party "DraimCiDo" (id=0 ownerUID= ownerName=)
+23:28:17.960 [Party] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) created a party named DraimCiDo (DCD)
+23:28:18.953 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: 0
+23:28:21.601 [Party] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) invited the player "Rem | Hedgehog" (id=EF6CtSr6pdKD84O8uUbeNzChIVU8B3QnDhdgpiqrL0k=)to the party named DraimCiDo
+23:28:35.265 [Party] Player "Rem | Hedgehog" (id=EF6CtSr6pdKD84O8uUbeNzChIVU8B3QnDhdgpiqrL0k=) joinded the party "DraimCiDo" (id=0 ownerUID=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc= ownerName=[DCD] Revolution)
+23:28:36.257 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:35:33.242 [Killfeed] [DCD] Revolution был убит.
+23:36:01.929 [Party] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) joinded the party "DraimCiDo" (id=0 ownerUID=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc= ownerName=[DCD] Revolution)
+23:36:01.929 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+23:36:01.929 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:36:02.914 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: 0
+23:36:04.984 [SpawnSelection] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) spawned at <13057.200195, 2.300000, 9584.480469>
+00:15:15.328 [Expansion Quests] - CompleteQuest - Player with UID EF6CtSr6pdKD84O8uUbeNzChIVU8B3QnDhdgpiqrL0k= has completed quest 8
+00:17:08.656 [Party] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) left the party "DraimCiDo" (id=0 ownerUID=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc= ownerName=[DCD] Revolution)
+00:17:14.000 [Party] Player "Rem | Hedgehog" (id=EF6CtSr6pdKD84O8uUbeNzChIVU8B3QnDhdgpiqrL0k=) left the party "DraimCiDo" (id=0 ownerUID=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc= ownerName=[DCD] Revolution)

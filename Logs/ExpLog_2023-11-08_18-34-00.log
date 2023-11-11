@@ -1,0 +1,49 @@
+19:46:05.531 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: e_pDq-nt77KCkibhVJJ5vJHfc2F73Ugf74tknYgO6Ek=
+19:46:05.531 [Expansion Quests] - LoadGroupQuestData - Created new persistent group quest data for group with ID: -1
+19:46:27.101 [SpawnSelection] Player "{Limonade}DarkStalky" (id=e_pDq-nt77KCkibhVJJ5vJHfc2F73Ugf74tknYgO6Ek=) spawned at <14407.299805, 2.000000, 13253.000000>
+19:50:05.890 [Expansion Quests] - InitQuestSystemClient - Created new persistent player quest data for player UID: fnQQxhId5cIgs-HBRROtwFqo61tnH87qNHn3QEhdjkQ=
+19:50:05.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:50:18.968 [SpawnSelection] Player "Survivor" (id=fnQQxhId5cIgs-HBRROtwFqo61tnH87qNHn3QEhdjkQ=) spawned at <14407.299805, 2.000000, 13253.000000>
+19:57:35.289 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+19:57:35.289 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+19:57:35.289 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+19:57:35.289 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+19:57:35.289 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+19:57:35.289 [Expansion Quests] - Create new quest instance for quest: 14 - Player UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+19:57:43.265 [SpawnSelection] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) spawned at <13207.200195, 2.300000, 10193.700195>
+19:57:48.250 [AI Patrol] Spawning 1 West bots at <13590.168945, 2.383535, 11111.037109>
+20:14:55.085 [Expansion Quests] - CompleteQuest - Player with UID NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc= has completed quest 8
+20:18:24.703 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12750.031250, 5.876037, 9575.514648>) as driver
+20:18:31.945 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12750.031250, 5.876064, 9575.514648>)
+20:18:36.539 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12750.031250, 5.876031, 9575.514648>)
+20:40:16.250 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12750.031250, 5.876020, 9575.514648>) as driver
+20:40:32.125 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12750.031250, 5.876031, 9575.514648>)
+20:42:17.976 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12986.045898, 6.026022, 8327.341797>)
+20:42:32.031 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Транзитный автобус (id=4E3A1F7C3E40461C18C633944362F4E1 pos=<12982.321289, 5.915101, 8363.111328>) as driver
+20:42:34.679 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Транзитный автобус (id=4E3A1F7C3E40461C18C633944362F4E1 pos=<12982.321289, 5.915100, 8363.111328>)
+20:43:44.664 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12986.045898, 6.026032, 8327.341797>) as driver
+20:43:46.117 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12986.045898, 6.026017, 8327.341797>)
+20:46:10.156 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12484.914063, 7.903102, 9563.858398>)
+20:46:33.500 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12484.914063, 7.903089, 9563.858398>) as driver
+20:46:34.921 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12484.914063, 7.903123, 9563.858398>)
+20:49:15.429 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12977.221680, 5.979102, 8354.724609>)
+20:50:26.640 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Транзитный автобус (id=4E3A1F7C3E40461C18C633944362F4E1 pos=<12982.331055, 5.984270, 8363.115234>) as driver
+20:50:29.445 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Транзитный автобус (id=4E3A1F7C3E40461C18C633944362F4E1 pos=<12982.331055, 5.984281, 8363.115234>)
+20:51:00.476 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12977.221680, 5.979125, 8354.724609>) as driver
+20:51:01.968 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12977.221680, 5.979108, 8354.724609>)
+20:53:04.523 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12295.020508, 33.972687, 9176.869141>)
+20:53:44.078 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12295.020508, 33.972660, 9176.869141>) as driver
+20:53:45.828 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12295.020508, 33.972672, 9176.869141>)
+20:54:03.953 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12316.407227, 33.967690, 9090.832031>)
+20:55:46.453 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12316.407227, 33.967701, 9090.832031>) as driver
+20:55:47.953 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12316.407227, 33.967697, 9090.832031>)
+20:56:42.125 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12611.947266, 11.455750, 8719.359375>)
+20:57:15.757 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12611.947266, 11.455716, 8719.359375>) as driver
+20:57:17.148 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<12611.947266, 11.455696, 8719.359375>)
+20:59:08.125 [Killfeed] [DCD] Revolution разбился на Sarka 120.
+20:59:41.156 [Expansion Quests] - InitQuestSystemClient - Got cached player quest data for player with UID: NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=
+20:59:41.156 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID: -1
+20:59:52.546 [SpawnSelection] Player "[DCD] Revolution" (id=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=) spawned at <13169.500000, 3.075610, 7504.029785>
+21:02:18.273 [VehicleEnter] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] entered vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<13094.001953, 5.918936, 7383.622559>) as driver
+21:02:20.023 [VehicleEngine] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] started vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<13094.002930, 5.918941, 7383.626953>)
+21:02:41.460 [VehicleLeave] Player [DCD] Revolution [uid=NGiFnAwrpZxPtJK1RnDxYSElvARP-GjSb86F0tWaTMc=] left vehicle Sarka 120 (id=2C86F399AF4D6A50C737D6A8DA39BBE7 pos=<13094.101563, 5.916381, 7384.684570>)
