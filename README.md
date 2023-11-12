@@ -36,4 +36,4 @@
 
 > [!WARNING]
 > Не забудьте, засейвить базу данных игроков.
-> Находится по пути: ```ExpansionMod/Hardline/PlayerData/...```
+> Находится по пути: ```ExpansionMod/Hardline/PlayerData/...``` и ```ExpansionMod/ATM/....```
