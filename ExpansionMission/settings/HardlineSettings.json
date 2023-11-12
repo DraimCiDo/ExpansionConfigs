@@ -17,7 +17,7 @@
     "UseItemRarityForMarketPurchase": 1,
     "UseItemRarityForMarketSell": 1,
     "MaxReputation": 0,
-    "ReputationLossOnDeath": 100,
+    "ReputationLossOnDeath": 150,
     "DefaultItemRarity": 2,
     "EntityReputation": {
         "Animal_GallusGallusDomesticus": 10,
