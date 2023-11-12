@@ -9,7 +9,7 @@
         {
             "ClassName": "gardenlime",
             "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
+            "MinPriceThreshold": 8,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -20,7 +20,7 @@
         {
             "ClassName": "pepperseeds",
             "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
+            "MinPriceThreshold": 8,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -31,7 +31,7 @@
         {
             "ClassName": "tomatoseeds",
             "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 4,
+            "MinPriceThreshold": 8,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -42,7 +42,7 @@
         {
             "ClassName": "zucchiniseeds",
             "MaxPriceThreshold": 12,
-            "MinPriceThreshold": 6,
+            "MinPriceThreshold": 12,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "pumpkinseeds",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

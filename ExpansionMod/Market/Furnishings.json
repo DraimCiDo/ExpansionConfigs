@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "expansiongunrack",
-            "MaxPriceThreshold": 7000,
-            "MinPriceThreshold": 3500,
+            "MaxPriceThreshold": 7650,
+            "MinPriceThreshold": 7650,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "expansionstove",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 3200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

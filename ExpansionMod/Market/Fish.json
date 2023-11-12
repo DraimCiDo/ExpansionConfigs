@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "carpfilletmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 160,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "mackerelfilletmeat",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 8,
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 160,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "carp",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 370,
+            "MinPriceThreshold": 370,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "sardines",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "mackerel",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

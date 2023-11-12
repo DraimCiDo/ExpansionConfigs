@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "flaregun",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 1350,
+            "MinPriceThreshold": 1350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "m79",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
+            "MaxPriceThreshold": 35100,
+            "MinPriceThreshold": 35100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "expansionlaw",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
+            "MaxPriceThreshold": 59000,
+            "MinPriceThreshold": 59000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "expansionrpg7",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 2500,
+            "MaxPriceThreshold": 68000,
+            "MinPriceThreshold": 68000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

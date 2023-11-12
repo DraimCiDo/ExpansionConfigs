@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "easteregg",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 1,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "crookednose",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 1,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "cauldron",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 1,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "witchhat",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 1,
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "witchhood_black",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 1,
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 250,
             "MinStockThreshold": 1,

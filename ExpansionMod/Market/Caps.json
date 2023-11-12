@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "baseballcap_cmmg_pink",
-            "MaxPriceThreshold": 24,
-            "MinPriceThreshold": 12,
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -28,8 +28,8 @@
         },
         {
             "ClassName": "baseballcap_black",
-            "MaxPriceThreshold": 26,
-            "MinPriceThreshold": 13,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -39,8 +39,8 @@
         },
         {
             "ClassName": "baseballcap_olive",
-            "MaxPriceThreshold": 28,
-            "MinPriceThreshold": 14,
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -50,8 +50,8 @@
         },
         {
             "ClassName": "baseballcap_camo",
-            "MaxPriceThreshold": 32,
-            "MinPriceThreshold": 16,
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 45,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -61,8 +61,8 @@
         },
         {
             "ClassName": "prisonercap",
-            "MaxPriceThreshold": 32,
-            "MinPriceThreshold": 16,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -72,8 +72,8 @@
         },
         {
             "ClassName": "pilotkacap",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 25,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -83,8 +83,8 @@
         },
         {
             "ClassName": "policecap",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 25,
+            "MaxPriceThreshold": 125,
+            "MinPriceThreshold": 125,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -94,8 +94,8 @@
         },
         {
             "ClassName": "flatcap_blue",
-            "MaxPriceThreshold": 64,
-            "MinPriceThreshold": 32,
+            "MaxPriceThreshold": 68,
+            "MinPriceThreshold": 68,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -114,7 +114,7 @@
         {
             "ClassName": "zmijovkacap_blue",
             "MaxPriceThreshold": 72,
-            "MinPriceThreshold": 36,
+            "MinPriceThreshold": 72,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -130,7 +130,7 @@
         {
             "ClassName": "zmijovkacap_black",
             "MaxPriceThreshold": 74,
-            "MinPriceThreshold": 37,
+            "MinPriceThreshold": 74,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -141,7 +141,7 @@
         {
             "ClassName": "zmijovkacap_green",
             "MaxPriceThreshold": 76,
-            "MinPriceThreshold": 38,
+            "MinPriceThreshold": 76,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -152,7 +152,7 @@
         {
             "ClassName": "radarcap_blue",
             "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -168,7 +168,7 @@
         {
             "ClassName": "radarcap_black",
             "MaxPriceThreshold": 84,
-            "MinPriceThreshold": 42,
+            "MinPriceThreshold": 84,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -179,7 +179,7 @@
         {
             "ClassName": "radarcap_green",
             "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 45,
+            "MinPriceThreshold": 90,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

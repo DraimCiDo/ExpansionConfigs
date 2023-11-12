@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "worm",
-            "MaxPriceThreshold": 4,
-            "MinPriceThreshold": 2,
+            "MaxPriceThreshold": 1,
+            "MinPriceThreshold": 1,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "bonehook",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "hook",
-            "MaxPriceThreshold": 14,
-            "MinPriceThreshold": 7,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "fishingrod",
-            "MaxPriceThreshold": 120,
-            "MinPriceThreshold": 60,
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
