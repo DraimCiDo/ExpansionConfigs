@@ -38,13 +38,3 @@
 > [!WARNING]
 > Не забудьте, засейвить базу данных игроков.
 > Находится по пути: ```ExpansionMod/Hardline/PlayerData/...``` и ```ExpansionMod/ATM/....```
-
-
-Poor - 1
-Common - 2
-Uncommon - 3
-Rare - 4
-Epic - 5
-Legendary - 6
-Mythic - 7
-Exotic - 8
